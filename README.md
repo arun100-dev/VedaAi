@@ -4,13 +4,6 @@ A full-stack AI-powered platform that allows teachers to create structured, curr
 
 ---
 
-## Live Demo
-
-- **Frontend:** https://vedaai.vercel.app
-- **Backend:** https://vedaai-backend.onrender.com
-
----
-
 ## Features
 
 - **Authentication** — JWT-based signup and login with bcrypt password hashing
