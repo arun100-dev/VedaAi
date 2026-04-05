@@ -283,7 +283,3 @@ vedaai/
 | `NEXT_PUBLIC_WS_URL` | Backend WebSocket URL |
 
 ---
-
-## License
-
-MIT
